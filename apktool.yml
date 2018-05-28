@@ -1,0 +1,32 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: IntelligentAttendanceSystem_v11.0_apkpure.com.apk
+compressionType: false
+doNotCompress:
+- arsc
+- PNG
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '19'
+  targetSdkVersion: '26'
+sharedLibrary: false
+unknownFiles:
+  font_metrics.properties: '8'
+  functions.properties: '8'
+  functions_da.properties: '8'
+  functions_de.properties: '8'
+  functions_en.properties: '8'
+  functions_es.properties: '8'
+  functions_fr.properties: '8'
+  org/apache/poi/hssf/record/formula/function/functionMetadata-asGenerated.txt: '8'
+  org/apache/poi/hssf/record/formula/function/functionMetadata.txt: '8'
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.3.0
+versionInfo:
+  versionCode: '11'
+  versionName: '11.0'
